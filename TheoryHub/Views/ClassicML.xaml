@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:model="clr-namespace:TheoryHub.Models"
+             x:Class="TheoryHub.Views.ClassicML"
+             Title="Классический ML">
+    <Grid RowDefinitions="Auto,*,Auto">
+        <!-- Строка 0: Поиск -->
+        <SearchBar Grid.Row="0"
+               Placeholder="Поиск..."
+               Margin="10"/>
+        <!-- Строка 1: Основной контент -->
+        <CollectionView 
+        SelectionMode="Single"
+        SelectionChanged="OnSectionSelected">
+            <CollectionView.ItemsSource>
+                <x:Array Type="{x:Type model:Theme}">
+                    <model:Theme Name="Введение" Description ="5 минут" NavigationTarget="ClassicMLTheme1"/>
+                    <model:Theme Name="Основы машинного обучения" Description ="7 минут" NavigationTarget="DeepLearning"/>
+                    <model:Theme Name="Подготовка данных" Description ="5 минут" NavigationTarget="DeepLearning"/>
+                    <model:Theme Name="Классификаторы" Description ="8 минут" NavigationTarget="DeepLearning"/>
+                    <model:Theme Name="Метрики" Description ="12 минут" NavigationTarget="DeepLearning"/>
+                    <model:Theme Name="Линейная регрессия" Description ="8 минут" NavigationTarget="DeepLearning"/>
+                    <model:Theme Name="Линейная классификация" Description ="8 минут" NavigationTarget="DeepLearning"/>
+                </x:Array>
+            </CollectionView.ItemsSource>
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="model:Theme">
+                    <Border
+                    Margin="10, 5"
+                    Padding="0"
+                    StrokeShape="RoundRectangle 10" 
+                    BackgroundColor="{StaticResource Primary}"
+                    StrokeThickness="0"
+                    HeightRequest="60">
+                        <HorizontalStackLayout Padding="10" BackgroundColor="{StaticResource Primary}">
+                            <!-- Label для Name -->
+                            <Label 
+                            Text="{Binding Name}" 
+                            FontSize="20" 
+                            TextColor="White"
+                            Margin="0,0,10,0" 
+                            VerticalOptions="Center"/>
+
+                            <!-- Второй Label для Description -->
+                            <Label 
+                            Text="{Binding Description}" 
+                            FontSize="14" 
+                            TextColor="LightGray"
+                            VerticalOptions="Center" />
+                        </HorizontalStackLayout>
+                    </Border>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+
+        <!-- Строка 2: Кнопка для добавления папок (остается поверх при прокрутке) -->
+        <Button Grid.Row="2"
+            Text="+"
+            FontSize="24"
+            CornerRadius="25"
+            WidthRequest="60"
+            HeightRequest="60"
+            HorizontalOptions="End"
+            VerticalOptions="End"
+            Margin="20"
+            BackgroundColor="{StaticResource Primary}"
+            TextColor="White"/>
+    </Grid>
+</ContentPage>

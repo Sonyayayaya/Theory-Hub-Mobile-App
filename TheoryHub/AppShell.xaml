@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="TheoryHub.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:view="clr-namespace:TheoryHub.Views"
+    Title="TheoryHub">
+
+    <TabBar>
+        <ShellContent Title="База знаний"
+                     Icon="database.png"
+                     ContentTemplate="{DataTemplate view:MainPage}" />
+        <ShellContent Title="Квиз"
+                     Icon="quiz.png"
+                     ContentTemplate="{DataTemplate view:QuizPage}" />
+        <ShellContent Title="Статистика"
+                     Icon="statistic.png"
+                     ContentTemplate="{DataTemplate view:StatisticPage}" />
+    </TabBar>
+</Shell>

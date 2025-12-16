@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\views\\classicml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\views\\classicml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\views\\ml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\views\\ml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\views\\ml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\views\\ml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\views\\classicml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\views\\classicml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\views\\classicmltheme1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\views\\classicmltheme1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\views\\classicmltheme1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\views\\classicmltheme1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\models\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\models\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\views\\statisticpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\views\\statisticpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\views\\quizpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\views\\quizpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\views\\statisticpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\views\\statisticpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\theoryhub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\theoryhub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\views\\quizpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\views\\quizpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|c:\\users\\sonyam\\source\\repos\\theoryhub\\theoryhub\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1457E113-2648-4398-847E-DC5AC25E0452}|TheoryHub\\TheoryHub.csproj|solutionrelative:theoryhub\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassicMLTheme1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\ClassicMLTheme1.xaml.cs",
+              "RelativeDocumentMoniker": "TheoryHub\\Views\\ClassicMLTheme1.xaml.cs",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\ClassicMLTheme1.xaml.cs",
+              "RelativeToolTip": "TheoryHub\\Views\\ClassicMLTheme1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:25:00.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassicMLTheme1.xaml",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\ClassicMLTheme1.xaml",
+              "RelativeDocumentMoniker": "TheoryHub\\Views\\ClassicMLTheme1.xaml",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\ClassicMLTheme1.xaml",
+              "RelativeToolTip": "TheoryHub\\Views\\ClassicMLTheme1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-16T14:23:56.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassicML.xaml",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\ClassicML.xaml",
+              "RelativeDocumentMoniker": "TheoryHub\\Views\\ClassicML.xaml",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\ClassicML.xaml",
+              "RelativeToolTip": "TheoryHub\\Views\\ClassicML.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-16T12:26:30.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ML.xaml",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\ML.xaml",
+              "RelativeDocumentMoniker": "TheoryHub\\Views\\ML.xaml",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\ML.xaml",
+              "RelativeToolTip": "TheoryHub\\Views\\ML.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-16T12:25:35.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "TheoryHub\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\AppShell.xaml.cs",
+              "RelativeToolTip": "TheoryHub\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:24:09.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TheoryHub\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "TheoryHub\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:04:23.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TheoryHub\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\MainPage.xaml",
+              "RelativeToolTip": "TheoryHub\\Views\\MainPage.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-15T12:01:23.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\App.xaml",
+              "RelativeDocumentMoniker": "TheoryHub\\App.xaml",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\App.xaml",
+              "RelativeToolTip": "TheoryHub\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-15T12:25:22.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Models\\Folder.cs",
+              "RelativeDocumentMoniker": "TheoryHub\\Models\\Folder.cs",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Models\\Folder.cs",
+              "RelativeToolTip": "TheoryHub\\Models\\Folder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:44:42.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ML.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\ML.xaml.cs",
+              "RelativeDocumentMoniker": "TheoryHub\\Views\\ML.xaml.cs",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\ML.xaml.cs",
+              "RelativeToolTip": "TheoryHub\\Views\\ML.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:25:39.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassicML.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\ClassicML.xaml.cs",
+              "RelativeDocumentMoniker": "TheoryHub\\Views\\ClassicML.xaml.cs",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\ClassicML.xaml.cs",
+              "RelativeToolTip": "TheoryHub\\Views\\ClassicML.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:27:37.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "TheoryHub\\Models\\Section.cs",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Models\\Section.cs",
+              "RelativeToolTip": "TheoryHub\\Models\\Section.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:42:51.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StatisticPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\StatisticPage.xaml.cs",
+              "RelativeDocumentMoniker": "TheoryHub\\Views\\StatisticPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\StatisticPage.xaml.cs",
+              "RelativeToolTip": "TheoryHub\\Views\\StatisticPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:21:42.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TheoryHub\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\AppShell.xaml",
+              "RelativeToolTip": "TheoryHub\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-15T11:44:24.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TheoryHub\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\App.xaml.cs",
+              "RelativeToolTip": "TheoryHub\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:43:41.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Models\\Theme.cs",
+              "RelativeDocumentMoniker": "TheoryHub\\Models\\Theme.cs",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Models\\Theme.cs",
+              "RelativeToolTip": "TheoryHub\\Models\\Theme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:45:01.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuizPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\QuizPage.xaml.cs",
+              "RelativeDocumentMoniker": "TheoryHub\\Views\\QuizPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\QuizPage.xaml.cs",
+              "RelativeToolTip": "TheoryHub\\Views\\QuizPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:22:29.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StatisticPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\StatisticPage.xaml",
+              "RelativeDocumentMoniker": "TheoryHub\\Views\\StatisticPage.xaml",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\StatisticPage.xaml",
+              "RelativeToolTip": "TheoryHub\\Views\\StatisticPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-15T12:21:17.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QuizPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\QuizPage.xaml",
+              "RelativeDocumentMoniker": "TheoryHub\\Views\\QuizPage.xaml",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\Views\\QuizPage.xaml",
+              "RelativeToolTip": "TheoryHub\\Views\\QuizPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-15T12:21:00.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TheoryHub\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\MauiProgram.cs",
+              "RelativeToolTip": "TheoryHub\\MauiProgram.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:08:36.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TheoryHub.csproj",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\TheoryHub.csproj",
+              "RelativeDocumentMoniker": "TheoryHub\\TheoryHub.csproj",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\TheoryHub.csproj",
+              "RelativeToolTip": "TheoryHub\\TheoryHub.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T11:59:56.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GlobalXmlns.cs",
+              "DocumentMoniker": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\GlobalXmlns.cs",
+              "RelativeDocumentMoniker": "TheoryHub\\GlobalXmlns.cs",
+              "ToolTip": "C:\\Users\\SonyaM\\source\\repos\\TheoryHub\\TheoryHub\\GlobalXmlns.cs",
+              "RelativeToolTip": "TheoryHub\\GlobalXmlns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:38:01.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
