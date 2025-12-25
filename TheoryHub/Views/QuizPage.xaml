@@ -3,10 +3,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TheoryHub.Views.QuizPage"
              Title="Квиз">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+    <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <Button Grid.Row="2"
+            Text="Play"
+            FontSize="24"
+            CornerRadius="50"
+            WidthRequest="360"
+            HeightRequest="200"
+            Margin="20"
+            BackgroundColor="{StaticResource Primary}"
+            TextColor="White"/>
+    </Grid>
 </ContentPage>

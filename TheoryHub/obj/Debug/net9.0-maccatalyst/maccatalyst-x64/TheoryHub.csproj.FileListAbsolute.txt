@@ -301,3 +301,12 @@ C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\ma
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\database.png
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\quiz.png
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\statistic.png
+C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TheoryHub.sourcelink.json
+C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommonServiceLocator.dll
+C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Mvvm.dll
+C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.CodeAnalysis.dll
+C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\GalaSoft.MvvmLight.Extras.dll
+C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\GalaSoft.MvvmLight.Platform.dll
+C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\GalaSoft.MvvmLight.dll
