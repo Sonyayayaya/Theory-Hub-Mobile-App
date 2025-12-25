@@ -7,7 +7,13 @@
             InitializeComponent();
             Routing.RegisterRoute("MLSection", typeof(Views.ML));
             Routing.RegisterRoute("ClassicMLFolder", typeof(Views.ClassicML));
-            Routing.RegisterRoute("ClassicMLTheme1", typeof(Views.ClassicMLTheme1));
+            Routing.RegisterRoute("ClassicMLTopic1", typeof(Views.ClassicMLTopic1));
+            Routing.RegisterRoute("ClassicMLTopic2", typeof(Views.ClassicMLTopic2));
+            Routing.RegisterRoute("ClassicMLTopic3", typeof(Views.ClassicMLTopic3));
+            Routing.RegisterRoute("ClassicMLTopic4", typeof(Views.ClassicMLTopic4));
+            Routing.RegisterRoute("ClassicMLTopic5", typeof(Views.ClassicMLTopic5));
+            Routing.RegisterRoute("ClassicMLTopic6", typeof(Views.ClassicMLTopic6));
+            Routing.RegisterRoute("ClassicMLTopic7", typeof(Views.ClassicMLTopic7));
         }
     }
 }

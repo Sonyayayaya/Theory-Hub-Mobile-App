@@ -60,10 +60,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
-		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
-		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="9.0.8" />
-		<PackageReference Include="MvvmLightLibs" Version="5.4.1.1" />
+		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="10.0.1" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -76,8 +73,26 @@
 	  <Compile Update="Views\ClassicML.xaml.cs">
 	    <DependentUpon>ClassicML.xaml</DependentUpon>
 	  </Compile>
-	  <Compile Update="Views\ClassicMLTheme1.xaml.cs">
-	    <DependentUpon>ClassicMLTheme1.xaml</DependentUpon>
+	  <Compile Update="Views\ClassicMLTopic1.xaml.cs">
+	    <DependentUpon>ClassicMLTopic1.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Views\ClassicMLTopic2.xaml.cs">
+	    <DependentUpon>ClassicMLTopic2.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Views\ClassicMLTopic3.xaml.cs">
+	    <DependentUpon>ClassicMLTopic3.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Views\ClassicMLTopic4.xaml.cs">
+	    <DependentUpon>ClassicMLTopic4.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Views\ClassicMLTopic5.xaml.cs">
+	    <DependentUpon>ClassicMLTopic5.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Views\ClassicMLTopic6.xaml.cs">
+	    <DependentUpon>ClassicMLTopic6.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Views\ClassicMLTopic7.xaml.cs">
+	    <DependentUpon>ClassicMLTopic7.xaml</DependentUpon>
 	  </Compile>
 	  <Compile Update="Views\StatisticPage.xaml.cs">
 	    <DependentUpon>StatisticPage.xaml</DependentUpon>
@@ -94,7 +109,25 @@
 	  <MauiXaml Update="Views\ClassicML.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Views\ClassicMLTheme1.xaml">
+	  <MauiXaml Update="Views\ClassicMLTopic1.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\ClassicMLTopic2.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\ClassicMLTopic3.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\ClassicMLTopic4.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\ClassicMLTopic5.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\ClassicMLTopic6.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\ClassicMLTopic7.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Views\QuizPage.xaml">
@@ -106,7 +139,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Folder Include="Platforms\Windows\" />
 	  <Folder Include="Services\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Update="Microsoft.Maui.Controls" Version="9.0.120" />
 	</ItemGroup>
 
 </Project>

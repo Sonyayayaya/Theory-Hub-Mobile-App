@@ -8,11 +8,10 @@
       },
       {
         "name": "Microsoft.iOS",
-        "version": "26.0.9752"
+        "version": "26.0.9783"
       }
     ],
     "configProperties": {
-      "MVVMTOOLKIT_ENABLE_INOTIFYPROPERTYCHANGING_SUPPORT": true,
       "Microsoft.Extensions.DependencyInjection.VerifyOpenGenericServiceTrimmability": true,
       "System.AggressiveAttributeTrimming": true,
       "System.ComponentModel.TypeConverter.EnableUnsafeBinaryFormatterInDesigntimeLicenseContextSerialization": false,

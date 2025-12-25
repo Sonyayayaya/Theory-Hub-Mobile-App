@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:model="clr-namespace:TheoryHub.Models"
+             x:Class="TheoryHub.Views.ClassicMLTopic1"
+             Title="Введение">
+    <ScrollView>
+        <VerticalStackLayout Padding="5">
+
+            <!-- Раздел: Теория -->
+            <Label Text="Теория" 
+                   FontSize="22" FontAttributes="Bold" 
+                   TextColor="{StaticResource Primary}" Padding="15,0,0,0"/>
+            <VerticalStackLayout Spacing="10" Padding="20">
+                <Label Text="    Классическое машинное обучение (Traditional Machine Learning) — это обширная область искусственного интеллекта, посвященная созданию алгоритмов, способных обучаться на данных и делать прогнозы или принимать решения без явного программирования на каждую задачу. В отличие от нейронных сетей глубокого обучения, эти методы часто работают с более структурированными данными и имеют более прозрачную логику принятия решений.
+Основная цель классического машинного обучения — найти закономерности в исторических данных и использовать их для предсказания будущих событий или классификации новых объектов. Это основа для таких повседневных технологий, как системы рекомендаций, фильтры спама и кредитный скоринг.
+                       " FontSize="16" LineBreakMode="WordWrap"/>
+                
+                <Label Text="    Все задачи в этой области можно разделить на три основных типа обучения. Обучение с учителем (Supervised Learning) предполагает наличие размеченных данных, где каждому примеру присвоен правильный ответ. Типичные задачи — регрессия (прогноз числа) и классификация (отнесение к категории).
+Обучение без учителя (Unsupervised Learning) работает с данными без меток, находя в них скрытые структуры. Сюда относятся кластеризация (группировка похожих объектов) и снижение размерности. Третий тип — обучение с подкреплением, где агент учится, взаимодействуя со средой и получая награды за правильные действия."
+FontSize="16" LineBreakMode="WordWrap"/>
+                
+                <Label Text="    Ключевым этапом перед построением любой модели является подготовка данных. Это включает сбор, очистку от аномалий и пропусков, а также преобразование признаков (Feature Engineering). Качество данных напрямую определяет успех будущей модели.
+
+После подготовки данных выбирается алгоритм, соответствующий задаче. Например, для классификации часто используют логистическую регрессию, решающие деревья или метод опорных векторов (SVM). Для регрессии — линейную регрессию или градиентный бустинг. Каждый алгоритм имеет свои сильные стороны и ограничения."
+                       FontSize="16" LineBreakMode="WordWrap"/>
+                
+                <Label Text="    Выбранную модель необходимо обучить на части данных (тренировочном наборе), а затем оценить её производительность на отдельной тестовой выборке, чтобы убедиться в способности обобщать знания. Для этого используют метрики вроде точности, полноты или среднеквадратичной ошибки.
+Классическое машинное обучение остается краеугольным камнем анализа данных благодаря интерпретируемости, меньшим требованиям к вычислительным ресурсам и данным, а также надежности в решении многих бизнес-задач. Оно создает фундамент для понимания более сложных концепций ИИ."
+                       FontSize="16" LineBreakMode="WordWrap"/>
+                
+            </VerticalStackLayout>
+            <BoxView HeightRequest="1" Color="LightGray" Margin="0,10"/>
+
+            <!-- Раздел: Термины -->
+            <Label Text="Термины" 
+                   FontSize="22" FontAttributes="Bold" 
+                   TextColor="{StaticResource Primary}" Padding="15,0,0,0"/>
+
+            <StackLayout Spacing="10" Padding="10">
+                <Frame x:Name="term1" BackgroundColor="#F0F0F0" Padding="10">
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnTermFrameTapped"/>
+                    </Frame.GestureRecognizers>
+                    <Label Text="Классическое машинное обучение " FontSize="16" />
+                </Frame>
+                <Label x:Name="definition1"
+                    Text="Это обширная область искусственного интеллекта, посвященная созданию алгоритмов, способных обучаться на данных и делать прогнозы или принимать решения без явного программирования на каждую задачу. В отличие от нейронных сетей глубокого обучения, эти методы часто работают с более структурированными данными и имеют более прозрачную логику принятия решений"
+                    IsVisible="False"
+                    Padding="10,20,10,10" />
+            </StackLayout>
+
+            <StackLayout Spacing="10" Padding="10">
+                <Frame x:Name="term2" BackgroundColor="#F0F0F0" Padding="10">
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnTermFrameTapped"/>
+                    </Frame.GestureRecognizers>
+                    <Label Text="Обучение с учителем" FontSize="16" />
+                </Frame>
+                <Label x:Name="definition2"
+                    Text="Предполагает наличие размеченных данных, где каждому примеру присвоен правильный ответ"
+                    IsVisible="False"
+                    Padding="10,20,10,10" />
+            </StackLayout>
+
+            <BoxView HeightRequest="1" Color="LightGray" Margin="0,10"/>
+
+            <!-- Раздел: Вопросы -->
+            <Label Text="Вопросы для самопроверки" 
+                   FontSize="22" FontAttributes="Bold" 
+                   TextColor="{StaticResource Primary}" Padding="15,0,0,0"/>
+
+            <StackLayout Spacing="10" Padding="10">
+                <Frame x:Name="question1" BackgroundColor="#F0F0F0" Padding="10">
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnQuestionFrameTapped"/>
+                    </Frame.GestureRecognizers>
+                    <Label Text="На какие три типа можно разделить задачи в области классического ML?" FontSize="16"/>
+                </Frame>
+                <Label x:Name="answer1" 
+                   Text="На обучение с учителем, обучение без учителя и обучение с подкреплением."
+                   IsVisible="False"
+                   Padding="10,20,10,10" />
+            </StackLayout>
+
+            <StackLayout Spacing="10" Padding="10">
+                <Frame x:Name="question2" BackgroundColor="#F0F0F0" Padding="10">
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnQuestionFrameTapped"/>
+                    </Frame.GestureRecognizers>
+                    <Label Text="Что входит в подготовку данных для модели?" FontSize="16"/>
+                </Frame>
+                <Label x:Name="answer2" 
+                   Text="Сбор, очистка от аномалий и пропусков, а также преобразование признаков."
+                   IsVisible="False"
+                   Padding="10,20,10,10" />
+            </StackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

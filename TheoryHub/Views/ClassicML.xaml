@@ -15,13 +15,13 @@
         SelectionChanged="OnSectionSelected">
             <CollectionView.ItemsSource>
                 <x:Array Type="{x:Type model:Theme}">
-                    <model:Theme Name="Введение" Description ="5 минут" NavigationTarget="ClassicMLTheme1"/>
-                    <model:Theme Name="Основы машинного обучения" Description ="7 минут" NavigationTarget="DeepLearning"/>
-                    <model:Theme Name="Подготовка данных" Description ="5 минут" NavigationTarget="DeepLearning"/>
-                    <model:Theme Name="Классификаторы" Description ="8 минут" NavigationTarget="DeepLearning"/>
-                    <model:Theme Name="Метрики" Description ="12 минут" NavigationTarget="DeepLearning"/>
-                    <model:Theme Name="Линейная регрессия" Description ="8 минут" NavigationTarget="DeepLearning"/>
-                    <model:Theme Name="Линейная классификация" Description ="8 минут" NavigationTarget="DeepLearning"/>
+                    <model:Theme Name="Введение" Description ="5 минут" NavigationTarget="ClassicMLTopic1"/>
+                    <model:Theme Name="Основы машинного обучения" Description ="7 минут" NavigationTarget="ClassicMLTopic2"/>
+                    <model:Theme Name="Подготовка данных" Description ="5 минут" NavigationTarget="ClassicMLTopic3"/>
+                    <model:Theme Name="Классификаторы" Description ="8 минут" NavigationTarget="ClassicMLTopic4"/>
+                    <model:Theme Name="Метрики" Description ="12 минут" NavigationTarget="ClassicMLTopic5"/>
+                    <model:Theme Name="Линейная регрессия" Description ="8 минут" NavigationTarget="ClassicMLTopic6"/>
+                    <model:Theme Name="Линейная классификация" Description ="8 минут" NavigationTarget="ClassicMLTopic7"/>
                 </x:Array>
             </CollectionView.ItemsSource>
             <CollectionView.ItemTemplate>

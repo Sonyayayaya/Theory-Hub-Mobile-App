@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheoryHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9a025101251ecc3a949254abc0bebf0c7ba76beb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+40d9f5d3e9f3b74af3c2a928a6f71fb233ee2354")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheoryHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheoryHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -15,6 +15,7 @@ C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\ma
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll
@@ -75,7 +76,6 @@ C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\ma
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Data.dll
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
-C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
@@ -255,6 +255,9 @@ C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\ma
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauifont.inputs
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\database.png
+C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\quiz.png
+C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\statistic.png
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
@@ -291,6 +294,7 @@ C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\ma
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TheoryHub.AssemblyInfoInputs.cache
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TheoryHub.AssemblyInfo.cs
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TheoryHub.csproj.CoreCompileInputs.cache
+C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TheoryHub.sourcelink.json
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\XamlC.stamp
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TheoryHub.csproj.Up2Date
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TheoryHub.dll
@@ -298,15 +302,3 @@ C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\ma
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TheoryHub.pdb
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TheoryHub.genruntimeconfig.cache
 C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\ref\TheoryHub.dll
-C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\database.png
-C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\quiz.png
-C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\statistic.png
-C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\TheoryHub.sourcelink.json
-C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommonServiceLocator.dll
-C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Mvvm.dll
-C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.CodeAnalysis.dll
-C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\GalaSoft.MvvmLight.Extras.dll
-C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\GalaSoft.MvvmLight.Platform.dll
-C:\Users\SonyaM\source\repos\TheoryHub\TheoryHub\bin\Debug\net9.0-maccatalyst\maccatalyst-x64\GalaSoft.MvvmLight.dll

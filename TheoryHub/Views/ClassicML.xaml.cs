@@ -15,9 +15,9 @@ public partial class ClassicML : ContentPage
         if (e.CurrentSelection != null && e.CurrentSelection.Count > 0)
         {
             // Получаем выбранный объект Section
-            var selectedSection = e.CurrentSelection[0] as Models.Theme;
+            var selectedTopic = e.CurrentSelection[0] as Models.Theme;
 
-            if (selectedSection != null)
+            if (selectedTopic != null)
             {
                 // 1. Снимаем выделение сразу, чтобы пользователь мог вернуться 
                 //    на эту страницу и снова нажать на тот же элемент.
@@ -25,8 +25,8 @@ public partial class ClassicML : ContentPage
 
                 // 2. Выполняем навигацию на новую страницу
                 //    (Предполагается, что у вас настроена навигация NavigationPage или Shell)
-                await Shell.Current.GoToAsync($"ClassicMLTheme1?Name={selectedSection.NavigationTarget}");
-
+                //await Shell.Current.GoToAsync($"ClassicMLTopic1?Name={selectedSection.NavigationTarget}");
+                await Shell.Current.GoToAsync($"{selectedTopic.NavigationTarget}?Name={selectedTopic.Name}");
                 // Пример навигации в Xamarin.Forms с NavigationPage.PushAsync:
                 // await Navigation.PushAsync(new DetailPage(selectedSection)); 
             }
